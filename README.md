@@ -46,7 +46,6 @@ This project follows the **"Train Heavy, Deploy Light"** MLOps pattern.
 
 ## 🔄 Automated Workflow Proof
 The entire backend pipeline is orchestrated using **Databricks Jobs** to ensure reliability and repeatability.
-<img width="1917" height="887" alt="image" src="https://github.com/user-attachments/assets/bdfef031-83ab-42ab-9330-0be2a4c55878" />
 
 
 ![Databricks Job Success](databricks_job_success_proof.png)
