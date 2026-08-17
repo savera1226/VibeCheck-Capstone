@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Databricks-orange.svg)](https://databricks.com/)
 [![App](https://img.shields.io/badge/Frontend-Streamlit-red.svg)](https://streamlit.io/)
 
-> **A Real-Time Lakehouse AI System that detects high-urgency passenger complaints and automates crisis response.**
+> **A Real-Time Lakehouse AI System that detects high-urgency passenger complaints and generates context-aware response drafts.**
 
 ---
 
